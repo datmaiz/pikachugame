@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PikachuGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PikachuGame_jar</output-path>
+    <root id="archive" name="PikachuGame.jar">
+      <element id="module-output" name="PikachuGame" />
+    </root>
+  </artifact>
+</component>
